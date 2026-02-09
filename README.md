@@ -2,6 +2,8 @@
 
 A desktop pixel sorting tool built with Python, PySide6, NumPy, and Pillow. Load an image, configure sorting parameters, and apply pixel sorting effects with real-time preview and full undo/redo support.
 
+![Pixel Sorting screenshot](pixelsortexample.jpg)
+
 ## Features
 
 - **Multiple sort keys** — Sort pixels by brightness, hue, saturation, intensity, minimum channel, or individual R/G/B channels
